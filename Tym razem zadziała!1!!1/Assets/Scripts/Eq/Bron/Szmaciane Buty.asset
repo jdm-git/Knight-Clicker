@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07213dc9a9358934f8561c8e269433dd, type: 3}
+  m_Name: Szmaciane Buty
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8457059588736510450, guid: 901148b0e8f6ac94087bcaa4c51ca165, type: 3}
+  type: 1
+  desription: 
